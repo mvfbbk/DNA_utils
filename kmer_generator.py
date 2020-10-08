@@ -74,5 +74,5 @@ def generate_kmers(polymer, kmer_length):
 
 if __name__ == '__main__':
     # Most DNA PCR primers will be at least 18 bases long
-    # this should produce ~68.7*10^9 unique combinations of sequences
+    # this should produce ~68.7*10e9 unique combinations of sequences
     generate_kmers('DNA',18)
