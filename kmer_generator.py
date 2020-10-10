@@ -1,7 +1,7 @@
 """
 Programme:  KMerGenerator
 File:       kmer_generator.py
-Version:    Alpha0.1
+Version:    Alpha0.2
 Date:       2020.10.5
 Function:   Generate KMers of specific lengths from a dictionary of
             possible characters
